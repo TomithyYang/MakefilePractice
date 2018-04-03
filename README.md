@@ -1,2 +1,2 @@
 # MakefilePractice
-SYL 练习Lunix
+练习Lunix
